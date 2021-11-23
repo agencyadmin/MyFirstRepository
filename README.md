@@ -1,2 +1,3 @@
 # MyFirstRepository
 Мой первый репозиторий
+## В основном, C#-разработчики работают с Git именно через VS, но еще в самой первой группе наши студенты увидели необходимость в том, чтобы узнать, как работать с Git в терминале. Поэтому мы добавили и оставили в нашем курсе Бонусный модуль, в котором вы узнаете, как работать с Git через терминал. Найти этот модуль вы можете в списке открытых модулей или по [ссылке.](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+CSHARP+2020/courseware/eb043ffc373b4d3aab2abf2816f9695a/3c797275a21c49258e370b9dab1c2d0b/1?activate_block_id=block-v1%3ASkillFactory%2BCSHARP%2B2020%2Btype%40vertical%2Bblock%405d2b68a1a5ca4f4590e2d0d1599ef6ad)
